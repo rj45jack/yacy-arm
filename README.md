@@ -14,6 +14,9 @@ docker run
 
 ## Links
 https://yacy.net/
+
 [https://hub.docker.com/r/syzygysystems/yacy-arm](https://hub.docker.com/r/syzygysystems/yacy-arm)
+
 [https://en.wikipedia.org/wiki/YaCy](https://en.wikipedia.org/wiki/YaCy)
+
 [https://twitter.com/yacy_search?lang=en](https://twitter.com/yacy_search?lang=en)
